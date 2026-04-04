@@ -1,26 +1,21 @@
 {
   "popupAds": [
     {
-      "id": 1,
       "image": "https://i.imgur.com/3ZQ3Z4K.png",
-      "text": "🔥 Special Offer!",
+      "text": "🔥 Limited Offer – Click Now!",
       "link": "https://example.com",
-      "active": true
-    },
-    {
-      "id": 2,
-      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
-      "text": "🌊 Explore Now",
-      "link": "https://example.com/explore",
       "active": true
     }
   ],
   "bannerAds": [
     {
-      "id": 1,
-      "image": "https://i.imgur.com/abc123.png",
-      "text": "📢 Always Visible Banner",
-      "link": "https://example.com/banner",
+      "text": "🚀 New Feature Released! Try it now",
+      "link": "https://example.com/update",
+      "active": true
+    },
+    {
+      "text": "🔥 Special Discount Available Today",
+      "link": "https://example.com/offer",
       "active": true
     }
   ]
