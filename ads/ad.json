@@ -1,21 +1,26 @@
 {
-  "ads": [
+  "popupAds": [
     {
+      "id": 1,
       "image": "https://i.imgur.com/3ZQ3Z4K.png",
       "text": "🔥 Special Offer!",
       "link": "https://example.com",
       "active": true
     },
     {
-      "image": "https://res.cloudinary.com/demo/image/upload/sample.jpg",
-      "text": "🚀 New Update Available",
-      "link": "https://example.com/update",
-      "active": true
-    },
-    {
+      "id": 2,
       "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
       "text": "🌊 Explore Now",
       "link": "https://example.com/explore",
+      "active": true
+    }
+  ],
+  "bannerAds": [
+    {
+      "id": 1,
+      "image": "https://i.imgur.com/abc123.png",
+      "text": "📢 Always Visible Banner",
+      "link": "https://example.com/banner",
       "active": true
     }
   ]
