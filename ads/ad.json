@@ -1,0 +1,22 @@
+{
+  "ads": [
+    {
+      "image": "https://i.imgur.com/3ZQ3Z4K.png",
+      "text": "🔥 Special Offer!",
+      "link": "https://example.com",
+      "active": true
+    },
+    {
+      "image": "https://res.cloudinary.com/demo/image/upload/sample.jpg",
+      "text": "🚀 New Update Available",
+      "link": "https://example.com/update",
+      "active": true
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "text": "🌊 Explore Now",
+      "link": "https://example.com/explore",
+      "active": true
+    }
+  ]
+}
