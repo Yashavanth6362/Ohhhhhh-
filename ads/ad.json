@@ -1,10 +1,10 @@
 {
   "popupAds": [
     {
-      "image": "https://site2-evo.pages.dev/logo.png",
+      "image": "https://site2-evo.pages.dev/preview.png",
       "text": "🔥 NEVER GIVE UP – Click Now!",
       "link": "https://site2-evo.pages.dev",
-      "active": false
+      "active": true
     }
   ],
   "bannerAds": [
