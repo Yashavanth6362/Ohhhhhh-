@@ -4,18 +4,18 @@
       "image": "https://site2-evo.pages.dev/logo.png",
       "text": "🔥 NEVER GIVE UP – Click Now!",
       "link": "https://site2-evo.pages.dev",
-      "active": true
+      "active": false
     }
   ],
   "bannerAds": [
     {
       "text": "🚀 New Feature Released! Try it now",
-      "link": "https://example.com/update",
+      "link": "https://blank.com",
       "active": true
     },
     {
       "text": "🔥 Special Discount Available Today",
-      "link": "https://example.com/offer",
+      "link": "https://blank.com/offer",
       "active": true
     }
   ]
